@@ -8,7 +8,7 @@ string2 = bytes_to_long(bytes.fromhex (mess2))
 
 byte2 = xor(string1, string2)
 key = long_to_bytes(byte2)
-decodeKey =
+decodeKey = 
 
 
 print(key)
